@@ -1,6 +1,6 @@
 # Java-Code
 A basic java code about conditional statements
-Hello all I am aniket, and this is the begining of my github journey i will be creating and adding much more codes about other programming languages as we progress i will be also be uploading my codes/work of my upcoming work as well. So be sure to stay up do date. 
+Hello all I am aniket, and this is the begining of my github journey i will be creating and adding much more codes about other programming languages as we progress i will be also be uploading my codes/work/projects of my upcoming work as well. So be sure to stay up do date. 
 
 The following code that i have uploaded is really a basic java code, about conditional statements, just for reference, so make sure to go through it.
 Also make sure you have vscode or any other compatible IDE installed in order to view this code. In case you dont, you can actually open this up with notepad well.
